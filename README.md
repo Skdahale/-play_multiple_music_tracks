@@ -1,6 +1,8 @@
 # play_multiple_music_tracks
 
 A new Flutter project.
+![Screenshot (246)](https://user-images.githubusercontent.com/97754817/215872725-7dde8468-e29a-4142-97bc-097594c4dc12.png)
+
 
 ## Getting Started
 
